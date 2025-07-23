@@ -4,12 +4,6 @@
 
 A cinematic red-team honeypot powered by Python, Docker, ARG puzzles, and Mira—the embedded AI that learns, listens, and lingers.
 
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="100" cy="100" r="90" stroke="#1e90ff" stroke-width="5" fill="#222"/>
-  <path d="M70,100 Q80,70 100,80 Q120,90 130,60" stroke="#fff" stroke-width="4" fill="none"/>
-  <ellipse cx="100" cy="100" rx="60" ry="40" stroke="#ff0040" stroke-width="3" fill="none"/>
-  <text x="50" y="180" font-size="24" fill="#1e90ff" font-family="monospace">HONEYPOT</text>
-</svg>
 
 
 
