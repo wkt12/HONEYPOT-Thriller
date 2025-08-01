@@ -1,5 +1,12 @@
 # HONEYPOT-Thriller
 
+<https://www.amazon.com/stores/Frank-Francis/author/B0FKMNFJ3P?ref_=pe_2466670_811284380&isDramIntegrated=true&shoppingPortalEnabled=true&ccs_id=604e8e9a-72b0-45de-b514-bdcaf359ae31>
+
+
+
+
+
+
 # 🧠 HONEYPOT - A Cybersecurity Thriller Lab
 
 A cinematic red-team honeypot powered by Python, Docker, ARG puzzles, and Mira—the embedded AI that learns, listens, and lingers.
