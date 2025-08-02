@@ -1,10 +1,8 @@
 # HONEYPOT-Thriller
 
-<https://www.amazon.com/stores/Frank-Francis/author/B0FKMNFJ3P?ref_=pe_2466670_811284380&isDramIntegrated=true&shoppingPortalEnabled=true&ccs_id=604e8e9a-72b0-45de-b514-bdcaf359ae31>
 
 
-
-
+</storage/emulated/0/Download/copilot_image_1753743580418.jpeg>
 
 
 # 🧠 HONEYPOT - A Cybersecurity Thriller Lab
